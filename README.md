@@ -8,7 +8,7 @@
 
 - 👨‍💻 My Portfolio - **[Sateesh Kumar Kollati](https://SateeshRandy.vercel.app/)**
 
-- 🔭 I’m currently working on **[Faasos Clone](https://github.com/SateeshRandy/faasos)**
+- 🔭 I’m currently Learning on **AI, AR/VR, BlockChain, Metavers**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
