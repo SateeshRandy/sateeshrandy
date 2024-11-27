@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently Learning on **AI, AR/VR, BlockChain, Metavers**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
 - <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
 
 - 📫 How to reach me **connect.chiranjeev@gmail.com**
